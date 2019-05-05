@@ -45,7 +45,7 @@ In another terminal run this  command to query the `/status/yaml` endpoint:
 curl -v 0.0.0.0:8001/status?format=yaml
 ----
 
-== Scenario: Using native tools
+== Scenario: Using native tool
 
 These instructions show you all the things you need to build and run the server on your local machine.
 
