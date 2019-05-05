@@ -5,12 +5,6 @@
 :sectnums:
 :experimental:
 
-image:https://quay.io/repository/redhat-developer/app-service/status["Docker Repository on Quay", link="https://quay.io/repository/redhat-developer/app-service"]
-image:https://circleci.com/gh/redhat-developer/app-service/tree/master.svg?style=svg["Build Status", link="https://circleci.com/gh/redhat-developer/app-service/tree/master"]
-image:https://goreportcard.com/badge/github.com/sbose78/console-deployer[Go Report Card, link="https://goreportcard.com/report/github.com/sbose78/console-deployer"]
-image:https://godoc.org/github.com/sbose78/console-deployer?status.png[GoDoc,link="https://godoc.org/github.com/sbose78/console-deployer"]
-image:https://codecov.io/gh/redhat-developer/app-service/branch/master/graph/badge.svg[Codecov.io,link="https://codecov.io/gh/redhat-developer/app-service"]
-
 
 This project provides the code to build a HTTP-REST server with some good defaults and features already configured. Among those are:
 
